@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 - MySQL or another relational database system
 - Dependencies listed in requirements.txt
 - wamp server
-- 
+
 
 ## Installation
 1: Clone the repository:
