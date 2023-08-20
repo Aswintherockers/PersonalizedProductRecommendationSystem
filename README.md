@@ -37,7 +37,7 @@ Admin Dashboard:
   - Includes an admin dashboard for monitoring system performance, user engagement, and fine-tuning recommendation strategies.
 ## Demo
 
-[Watch the Proof of Concept Demo Video](https://youtu.be/Xs0WKUQzBdY)
+[Watch the Proof of Concept Demo Video](https://youtu.be/iWt87umAQQg)
 ## Getting Started:
 ## Prerequisites:
 Before you begin, ensure you have met the following requirements:
