@@ -50,18 +50,22 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 1: Clone the repository:
-git clone https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem.git
+- git clone https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem.git
 2: Install the required dependencies:
-pip install -r requirements.txt
+- pip install -r requirements.txt
 3:Usage
-Configure the database settings in config.py.
-Run the application:
-python app.py
-4. Clone this repository: `git clone <repository-url>`
-5. Change into the project directory: `cd <project-directory>`
-6. Install the required dependencies: `pip install -r requirements.txt`
+- Configure the database settings in config.py.
+- Run the application:
+- python app.py
+4:Clone this repository: 
+- `git clone <repository-url>`
+5: Change into the project directory: 
+-`cd <project-directory>`
+6: Install the required dependencies:
+- `pip install -r requirements.txt`
 
 Make sure you have Git and Python's pip package manager installed on your system before proceeding with the installation.
+
 ## Images
 ![WhatsApp Image 2023-08-20 at 20 54 49](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/fe0a0b62-126d-4fbb-bfe7-d4cd7f76b23d)
 ![2](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/ad39e92b-9ef7-435c-be14-33cc932bf3f9)
@@ -71,6 +75,8 @@ Make sure you have Git and Python's pip package manager installed on your system
 ![66](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/941c455d-6c47-4bb6-b9b3-c84233576631)
 ![77](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/25dba739-72e0-4ffd-a6b4-767e1a6a450d)
 ![88](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/1bc56b3e-e6a1-4885-baba-a1f73241f0f1)
+![99](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/2f52b419-3325-47b4-9619-12fe08f3c888)
+
 ## BLOCK DIGRAM
 ![WhatsApp Image 2023-08-20 at 3 51 59 PM](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/fd32c188-562f-4ac5-b2e4-37c780376f7c)
 
