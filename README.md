@@ -1,7 +1,7 @@
 # PersonalizedProductRecommendationSystem
 #### 4.AI Based Personalized Product Recommendation System
 # Personalized Product Ranking System
-
+## MAIN IMPORTANT POINT USE THIS DRIVE LINK IT'S TO BE PUBLICE USE THE DRIVE LINK TO DOWLOAD THE FULL SOURCE CODE:https://drive.google.com/drive/folders/1ukLwtPsYviqSnImGOuqOpA-oNARw2tVj
 //
 Enhance user experiences with a sophisticated Personalized Product Ranking System that provides accurate and relevant product recommendations based on user preferences, interactions, and product popularity. This project is developed as part of the Flipkart Grid Hackathon.
 
@@ -73,7 +73,7 @@ Make sure you have Git and Python's pip package manager installed on your system
 ## Usage
 
 1. Run the training code to prepare the recommendation system:
-2. Simulate user interactions and preferences in the `simulate_user_interactions.py` script.
+2. Simulate user interactions and preferences in the `main.py` script.
 3. Run the script to see the recommended products:
 
 ## Contributing
@@ -82,5 +82,5 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 https://github.com/Aswintherockers
 
 ## License
-
+https://github.com/Aswintherockers
 This project is licensed under the [THE BOYS License](LICENSE).
