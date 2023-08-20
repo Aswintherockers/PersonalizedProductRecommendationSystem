@@ -66,7 +66,9 @@ python app.py
 
 Make sure you have Git and Python's pip package manager installed on your system before proceeding with the installation.
 ## Images
-![Screenshot (240)](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/88783508-cee4-4b6a-9124-2e3d02c22d57)
+
+## BLOCK DIGRAM
+![WhatsApp Image 2023-08-20 at 3 51 59 PM](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/fd32c188-562f-4ac5-b2e4-37c780376f7c)
 
 ## Usage
 
