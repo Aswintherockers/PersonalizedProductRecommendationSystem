@@ -65,6 +65,8 @@ python app.py
 6. Install the required dependencies: `pip install -r requirements.txt`
 
 Make sure you have Git and Python's pip package manager installed on your system before proceeding with the installation.
+## Images
+![Screenshot (240)](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/88783508-cee4-4b6a-9124-2e3d02c22d57)
 
 ## Usage
 
