@@ -48,20 +48,15 @@ Before you begin, ensure you have met the following requirements:
 - wamp server
 
 ## Installation
-1: Clone the repository:
-  - git clone https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem.git
-2: Install the required dependencies:
-  - pip install -r requirements.txt
+1: Clone the repository: git clone https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem.git
+2: Install the required dependencies: pip install -r requirements.txt
 3:Usage
   - Configure the database settings in config.py.
   - Run the application:
   - python app.py
-4:Clone this repository: 
-  - `git clone <repository-url>`
-5: Change into the project directory: 
-  -`cd <project-directory>`
-6: Install the required dependencies:
-  - `pip install -r requirements.txt`
+4:Clone this repository:  `git clone <repository-url>`
+5: Change into the project directory: `cd <project-directory>`
+6: Install the required dependencies: `pip install -r requirements.txt`
 
 Make sure you have Git and Python's pip package manager installed on your system before proceeding with the installation.
 
