@@ -1,6 +1,4 @@
 # PersonalizedProductRecommendationSystem
-#### 4.AI Based Personalized Product Recommendation System
-# Personalized Product Ranking System
 ## MAIN IMPORTANT POINT USE THIS DRIVE LINK IT'S TO BE PUBLICE USE THE DRIVE LINK TO DOWLOAD THE FULL SOURCE CODE:https://drive.google.com/drive/folders/1ukLwtPsYviqSnImGOuqOpA-oNARw2tVj
 //
 Enhance user experiences with a sophisticated Personalized Product Ranking System that provides accurate and relevant product recommendations based on user preferences, interactions, and product popularity. This project is developed as part of the Flipkart Grid Hackathon.
@@ -41,8 +39,8 @@ Admin Dashboard:
 ## Demo
 
 [Watch the Proof of Concept Demo Video](https://youtu.be/Xs0WKUQzBdY)
-## Getting Started
-## Prerequisites
+## Getting Started:
+## Prerequisites:
 Before you begin, ensure you have met the following requirements:
 
 - Python 3.x
