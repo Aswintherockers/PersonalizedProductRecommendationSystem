@@ -1,8 +1,7 @@
 # PersonalizedProductRecommendationSystem
-## MAIN IMPORTANT POINT USE THIS DRIVE LINK IT'S TO BE PUBLICE USE THE DRIVE LINK TO DOWLOAD THE FULL SOURCE CODE:https://drive.google.com/drive/folders/1ukLwtPsYviqSnImGOuqOpA-oNARw2tVj
-//
-Enhance user experiences with a sophisticated Personalized Product Ranking System that provides accurate and relevant product recommendations based on user preferences, interactions, and product popularity. This project is developed as part of the Flipkart Grid Hackathon.
 
+Enhance user experiences with a sophisticated Personalized Product Ranking System that provides accurate and relevant product recommendations based on user preferences, interactions, and product popularity. This project is developed as part of the Flipkart Grid Hackathon.
+## MAIN IMPORTANT POINT USE THIS DRIVE LINK IT'S TO BE PUBLIC USE THE DRIVE LINK TO DOWLOAD THE FULL SOURCE CODE:https://drive.google.com/drive/folders/1ukLwtPsYviqSnImGOuqOpA-oNARw2tVj
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -25,16 +24,16 @@ The aim of this project is to reimagine how users engage with and discover produ
 - Recommendations with or without the same brand for diversity.
 - Evaluation metrics to measure the accuracy and relevance of rankings.
 User Profiling:
-  - The system creates detailed profiles for each user, considering their historical interactions, preferences, and demographics.
 Recommendation Algorithms:
-  - Utilizes state-of-the-art recommendation algorithms, including collaborative filtering, content-based filtering, and hybrid methods.
+ - The system creates detailed profiles for each user, considering their historical interactions, preferences, and demographics.
 Real-Time Recommendations:
-  - Provides recommendations in real-time, ensuring that users receive relevant suggestions as their preferences evolve.
-Scalable:
-  - Built to handle large datasets and high user traffic, making it suitable for both small and large-scale applications.
+ - Utilizes state-of-the-art recommendation algorithms, including collaborative filtering, content-based filtering, and hybrid methods.
+Scalable: 
+ - Provides recommendations in real-time, ensuring that users receive relevant suggestions as their preferences evolve.
 Feedback Loop:
-  - Allows users to provide feedback on recommendations, improving the accuracy of future suggestions.
+  - Built to handle large datasets and high user traffic, making it suitable for both small and large-scale applications.
 Admin Dashboard:
+  - Allows users to provide feedback on recommendations, improving the accuracy of future suggestions.
   - Includes an admin dashboard for monitoring system performance, user engagement, and fine-tuning recommendation strategies.
 ## Demo
 
@@ -51,7 +50,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 1: Clone the repository:
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem.git
 2: Install the required dependencies:
 pip install -r requirements.txt
 3:Usage
@@ -64,7 +63,14 @@ python app.py
 
 Make sure you have Git and Python's pip package manager installed on your system before proceeding with the installation.
 ## Images
-
+![WhatsApp Image 2023-08-20 at 20 54 49](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/fe0a0b62-126d-4fbb-bfe7-d4cd7f76b23d)
+![2](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/ad39e92b-9ef7-435c-be14-33cc932bf3f9)
+![3](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/86bb0d06-e7da-4b54-a665-bdf2ba8bfbd4)
+![4](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/c2beb0e9-8eb0-41e8-be7c-f0cf58f3f227)
+![5](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/2e3ffa9f-5093-4eec-a308-222df0609628)
+![66](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/941c455d-6c47-4bb6-b9b3-c84233576631)
+![77](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/25dba739-72e0-4ffd-a6b4-767e1a6a450d)
+![88](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/1bc56b3e-e6a1-4885-baba-a1f73241f0f1)
 ## BLOCK DIGRAM
 ![WhatsApp Image 2023-08-20 at 3 51 59 PM](https://github.com/Aswintherockers/PersonalizedProductRecommendationSystem/assets/110334860/fd32c188-562f-4ac5-b2e4-37c780376f7c)
 
