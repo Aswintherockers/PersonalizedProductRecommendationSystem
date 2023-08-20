@@ -35,8 +35,7 @@ Feedback Loop:
 Admin Dashboard:
   - Allows users to provide feedback on recommendations, improving the accuracy of future suggestions.
   - Includes an admin dashboard for monitoring system performance, user engagement, and fine-tuning recommendation strategies.
-## Demo
-
+## Demo LINK(YOUTUBE LINK):https://youtu.be/iWt87umAQQg
 [Watch the Proof of Concept Demo Video](https://youtu.be/iWt87umAQQg)
 ## Getting Started:
 ## Prerequisites:
